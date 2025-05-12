@@ -29,7 +29,12 @@ These are trained and evaluated using accuracy, classification report, and confu
 Install the following Python libraries:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+tensorflow
 ```
 
 ## 🧪 Usage
